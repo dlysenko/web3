@@ -1,0 +1,17 @@
+# Local
+*_local*
+static
+env
+
+# Temporary files
+*.pyc
+__pycache__
+*.swp
+*.log
+log
+
+# Test data
+*fixtures*
+
+# Database
+*.sqlite3
